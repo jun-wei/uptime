@@ -7,6 +7,14 @@ sites:
     url: https://bazi-api-8pr4.onrender.com/
   - name: Baby Naming
     url: https://baby-chinese-naming-vvwag7rdrm4txuyt6lqekj.streamlit.app/
+    - name: Xiao Liu Ren
+    url: https://fengshuidahouse.lovable.app
+    - name: AI Workflow
+    url: https://smart-workflow-aid.lovable.app
+    - name: AI Skin
+    url: https://serich-ai.lovable.app
+    - name: Bazi
+    url: https://fengshui-da-house.lovable.app
   
 
 status-website:
