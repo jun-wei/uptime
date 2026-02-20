@@ -6,16 +6,18 @@
     "slug": "bazi",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3693,
-    "timeDay": 7802,
-    "timeWeek": 3930,
-    "timeMonth": 3693,
-    "timeYear": 3693,
-    "dailyMinutesDown": {}
+    "time": 3623,
+    "timeDay": 7813,
+    "timeWeek": 3790,
+    "timeMonth": 3623,
+    "timeYear": 3623,
+    "dailyMinutesDown": {
+      "2026-02-20": 0
+    }
   },
   {
     "name": "Baby Naming",
@@ -23,11 +25,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/baby-chinese-naming-vvwag7rdrm4txuyt6lqekj.streamlit.app.ico",
     "slug": "baby-naming",
     "status": "down",
-    "uptime": "99.52%",
+    "uptime": "99.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.52%",
-    "uptimeYear": "99.52%",
+    "uptimeMonth": "99.53%",
+    "uptimeYear": "99.53%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
@@ -98,15 +100,17 @@
     "slug": "bazi",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3693,
-    "timeDay": 7802,
-    "timeWeek": 3930,
-    "timeMonth": 3693,
-    "timeYear": 3693,
-    "dailyMinutesDown": {}
+    "time": 3623,
+    "timeDay": 7813,
+    "timeWeek": 3790,
+    "timeMonth": 3623,
+    "timeYear": 3623,
+    "dailyMinutesDown": {
+      "2026-02-20": 0
+    }
   }
 ]
