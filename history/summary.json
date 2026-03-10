@@ -6,16 +6,18 @@
     "slug": "bazi",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3363,
-    "timeDay": 6179,
-    "timeWeek": 3590,
-    "timeMonth": 3327,
-    "timeYear": 3363,
-    "dailyMinutesDown": {}
+    "time": 3337,
+    "timeDay": 5049,
+    "timeWeek": 3476,
+    "timeMonth": 3297,
+    "timeYear": 3337,
+    "dailyMinutesDown": {
+      "2026-03-10": 0
+    }
   },
   {
     "name": "Baby Naming",
@@ -98,15 +100,17 @@
     "slug": "bazi",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 3363,
-    "timeDay": 6179,
-    "timeWeek": 3590,
-    "timeMonth": 3327,
-    "timeYear": 3363,
-    "dailyMinutesDown": {}
+    "time": 3337,
+    "timeDay": 5049,
+    "timeWeek": 3476,
+    "timeMonth": 3297,
+    "timeYear": 3337,
+    "dailyMinutesDown": {
+      "2026-03-10": 0
+    }
   }
 ]
