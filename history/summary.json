@@ -6,16 +6,17 @@
     "slug": "bazi",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.73%",
-    "time": 3306,
-    "timeDay": 402,
-    "timeWeek": 3433,
-    "timeMonth": 3418,
-    "timeYear": 3306,
+    "time": 3292,
+    "timeDay": 439,
+    "timeWeek": 3271,
+    "timeMonth": 3444,
+    "timeYear": 3292,
     "dailyMinutesDown": {
+      "2026-04-04": 0,
       "2026-03-10": 214
     }
   },
@@ -100,16 +101,17 @@
     "slug": "bazi",
     "status": "up",
     "uptime": "99.73%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.51%",
     "uptimeYear": "99.73%",
-    "time": 3306,
-    "timeDay": 402,
-    "timeWeek": 3433,
-    "timeMonth": 3418,
-    "timeYear": 3306,
+    "time": 3292,
+    "timeDay": 439,
+    "timeWeek": 3271,
+    "timeMonth": 3444,
+    "timeYear": 3292,
     "dailyMinutesDown": {
+      "2026-04-04": 0,
       "2026-03-10": 214
     }
   }
