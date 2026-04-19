@@ -4,7 +4,7 @@
     "url": "https://bazi-api-8pr4.onrender.com/",
     "icon": "https://icons.duckduckgo.com/ip3/bazi-api-8pr4.onrender.com.ico",
     "slug": "bazi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,9 +13,10 @@
     "time": 3464,
     "timeDay": 11434,
     "timeWeek": 8208,
-    "timeMonth": 3683,
+    "timeMonth": 3757,
     "timeYear": 3464,
     "dailyMinutesDown": {
+      "2026-04-19": 0,
       "2026-03-10": 214
     }
   },
@@ -98,18 +99,19 @@
     "url": "https://fengshui-da-house.lovable.app",
     "icon": "https://icons.duckduckgo.com/ip3/fengshui-da-house.lovable.app.ico",
     "slug": "bazi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.79%",
     "time": 3464,
     "timeDay": 11434,
     "timeWeek": 8208,
-    "timeMonth": 3683,
+    "timeMonth": 3757,
     "timeYear": 3464,
     "dailyMinutesDown": {
+      "2026-04-19": 0,
       "2026-03-10": 214
     }
   }
