@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bazi-api-8pr4.onrender.com.ico",
     "slug": "bazi",
     "status": "up",
-    "uptime": "53.63%",
-    "uptimeDay": "100.00%",
+    "uptime": "53.76%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "53.63%",
-    "time": 6385,
-    "timeDay": 11426,
-    "timeWeek": 14162,
-    "timeMonth": 11756,
-    "timeYear": 6385,
+    "uptimeYear": "53.76%",
+    "time": 6381,
+    "timeDay": 8417,
+    "timeWeek": 13068,
+    "timeMonth": 11551,
+    "timeYear": 6381,
     "dailyMinutesDown": {
       "2026-03-10": 214,
       "2026-04-19": 33,
@@ -133,7 +133,8 @@
       "2026-04-30": 1440,
       "2026-04-29": 1440,
       "2026-04-28": 1440,
-      "2026-04-27": 195
+      "2026-04-27": 195,
+      "2026-10-14": 0
     }
   },
   {
@@ -220,16 +221,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fengshui-da-house.lovable.app.ico",
     "slug": "bazi",
     "status": "up",
-    "uptime": "53.63%",
-    "uptimeDay": "100.00%",
+    "uptime": "53.76%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "53.63%",
-    "time": 6385,
-    "timeDay": 11426,
-    "timeWeek": 14162,
-    "timeMonth": 11756,
-    "timeYear": 6385,
+    "uptimeYear": "53.76%",
+    "time": 6381,
+    "timeDay": 8417,
+    "timeWeek": 13068,
+    "timeMonth": 11551,
+    "timeYear": 6381,
     "dailyMinutesDown": {
       "2026-03-10": 214,
       "2026-04-19": 33,
@@ -348,7 +349,8 @@
       "2026-04-30": 1440,
       "2026-04-29": 1440,
       "2026-04-28": 1440,
-      "2026-04-27": 195
+      "2026-04-27": 195,
+      "2026-10-14": 0
     }
   }
 ]
