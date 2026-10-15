@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/bazi-api-8pr4.onrender.com.ico",
     "slug": "bazi",
     "status": "up",
-    "uptime": "53.76%",
-    "uptimeDay": "99.97%",
+    "uptime": "53.82%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "53.76%",
-    "time": 6381,
-    "timeDay": 8417,
-    "timeWeek": 13068,
-    "timeMonth": 11551,
-    "timeYear": 6381,
+    "uptimeYear": "53.82%",
+    "time": 6398,
+    "timeDay": 8407,
+    "timeWeek": 13065,
+    "timeMonth": 11547,
+    "timeYear": 6398,
     "dailyMinutesDown": {
       "2026-03-10": 214,
       "2026-04-19": 33,
@@ -133,8 +133,7 @@
       "2026-04-30": 1440,
       "2026-04-29": 1440,
       "2026-04-28": 1440,
-      "2026-04-27": 195,
-      "2026-10-14": 0
+      "2026-04-27": 195
     }
   },
   {
@@ -168,11 +167,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1363,
-    "timeDay": 1117,
-    "timeWeek": 1293,
-    "timeMonth": 1322,
-    "timeYear": 1363,
+    "time": 1364,
+    "timeDay": 1636,
+    "timeWeek": 1376,
+    "timeMonth": 1325,
+    "timeYear": 1364,
     "dailyMinutesDown": {}
   },
   {
@@ -186,11 +185,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 698,
-    "timeDay": 374,
-    "timeWeek": 491,
-    "timeMonth": 491,
-    "timeYear": 698,
+    "time": 697,
+    "timeDay": 484,
+    "timeWeek": 503,
+    "timeMonth": 489,
+    "timeYear": 697,
     "dailyMinutesDown": {
       "2026-05-04": 73
     }
@@ -207,9 +206,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
     "time": 766,
-    "timeDay": 650,
-    "timeWeek": 753,
-    "timeMonth": 743,
+    "timeDay": 645,
+    "timeWeek": 767,
+    "timeMonth": 732,
     "timeYear": 766,
     "dailyMinutesDown": {
       "2026-04-29": 201
@@ -221,16 +220,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/fengshui-da-house.lovable.app.ico",
     "slug": "bazi",
     "status": "up",
-    "uptime": "53.76%",
-    "uptimeDay": "99.97%",
+    "uptime": "53.82%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "53.76%",
-    "time": 6381,
-    "timeDay": 8417,
-    "timeWeek": 13068,
-    "timeMonth": 11551,
-    "timeYear": 6381,
+    "uptimeYear": "53.82%",
+    "time": 6398,
+    "timeDay": 8407,
+    "timeWeek": 13065,
+    "timeMonth": 11547,
+    "timeYear": 6398,
     "dailyMinutesDown": {
       "2026-03-10": 214,
       "2026-04-19": 33,
@@ -349,8 +348,7 @@
       "2026-04-30": 1440,
       "2026-04-29": 1440,
       "2026-04-28": 1440,
-      "2026-04-27": 195,
-      "2026-10-14": 0
+      "2026-04-27": 195
     }
   }
 ]
